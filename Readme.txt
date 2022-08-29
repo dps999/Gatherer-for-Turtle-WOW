@@ -1,4 +1,4 @@
-This is Gatherer_p2p 1.0.0
+This is Gatherer_p2p 1.0.0 fixed for Turtle Wow
 
 Its crucial feature is node synchronization via guild chat.
 
